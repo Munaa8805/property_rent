@@ -6,6 +6,7 @@ import HomeProperties from "@/components/HomeProperties";
 import FeaturedProperties from "@/components/FeaturedProperties";
 
 const HomePage = () => {
+    /// Test
     return (
         <>
             <Hero />
